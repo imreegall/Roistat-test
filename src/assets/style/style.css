@@ -1,0 +1,12 @@
+* {
+    font-family: "Calibri Light", sans-serif;
+}
+
+#app {
+    min-height: 100vh;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 50px;
+}
